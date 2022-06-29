@@ -6,7 +6,7 @@ The second chart presentstrend over time for successfull, live, and failed campi
 ---
 ### Chart 1. 
 ---
-![Bar Chart Outcomes](https://github.com/melpatjen16/kickstarter-analysis/Bar Chart Outcomes.png?raw=true)
+![Bar Chart Outcomes](Bar Chart Outcomes.png)
 ### Chart 2
 ---
 ![Line Chart Outcomes](Macintosh/Users/melaniepjenkins/Desktop/SPCS Data Bootcamp/CrowdfundingAnalysis/Line Chart Outcomes.png
