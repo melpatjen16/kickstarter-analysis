@@ -2,7 +2,7 @@
 Performing analysis on Kickstarter data to uncover trends for Louise
 ---
 Included are charts presenting the campaign trends by parent category for each sub category
-The second chart presentstrend over time for successfull, live, and failed campiagns
+The second chart presentstrend over time for successfull, live, cancelled and failed campiagns
 ---
 ### Chart 1
 ---
